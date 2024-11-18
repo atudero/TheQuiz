@@ -1,2 +1,0 @@
-# TheQuiz
-Quiz program
